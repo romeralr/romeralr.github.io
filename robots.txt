@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://romeralr.github.io/sitemap.xml
+Sitemap: https://romeralr.github.io/app/sitemap.xml
+Sitemap: https://romeralr.github.io/assets/sitemap.xml
+Sitemap: https://romeralr.github.io/css/sitemap.xml
+Sitemap: https://romeralr.github.io/includes/sitemap.xml
+Sitemap: https://romeralr.github.io/item/sitemap.xml
+Sitemap: https://romeralr.github.io/src/sitemap.xml
